@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webp-to-jpg", "webp-to-jpg.csproj", "{808B9F45-B663-4CDC-BE68-D321C9335F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808B9F45-B663-4CDC-BE68-D321C9335F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808B9F45-B663-4CDC-BE68-D321C9335F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808B9F45-B663-4CDC-BE68-D321C9335F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808B9F45-B663-4CDC-BE68-D321C9335F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED51A5A-6085-49D7-BDB2-8404AF7F12AD}
+	EndGlobalSection
+EndGlobal
